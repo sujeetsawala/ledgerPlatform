@@ -1,0 +1,41 @@
+[
+  {
+    "userType": "BANK",
+    "userId": "B120",
+    "name": "Bank120",
+    "address": "A123"
+  },
+  {
+    "userType": "BANK",
+    "userId": "B121",
+    "name": "Bank121",
+    "address": "A124"
+  },
+  {
+    "userType": "BANK",
+    "userId": "B122",
+    "name": "Bank122",
+    "address": "A125"
+  },
+  {
+    "userType": "USER",
+    "userId": "U120",
+    "name": "User120",
+    "address": "A123",
+    "mobNo": "9085393938"
+  },
+  {
+    "userType": "USER",
+    "userId": "U121",
+    "name": "User121",
+    "address": "A124",
+    "mobNo": "9085393939"
+  },
+  {
+    "userType": "USER",
+    "userId": "U122",
+    "name": "User122",
+    "address": "A125",
+    "mobNo": "9085393933"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "responseType" : "BALANCE",
+    "bankName" : "Bank122",
+    "borrowerName" : "User122",
+    "amountPaid" : "15856",
+    "noOfEmiLeft": "3"
+  }
+]
