@@ -1,9 +1,0 @@
-[
-  {
-    "responseType" : "BALANCE",
-    "bankName" : "Bank122",
-    "borrowerName" : "User122",
-    "amountPaid" : "9044",
-    "noOfEmiLeft": "10"
-  }
-]
